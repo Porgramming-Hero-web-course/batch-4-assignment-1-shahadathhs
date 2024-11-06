@@ -50,3 +50,27 @@ ts-node ./src/problem-3.ts
 ```bash
 ts-node ./src/problem-4.ts
 ```
+
+### Run Problem 5 Solution
+
+```bash
+ts-node ./src/problem-5.ts
+```
+
+### Run Problem 6 Solution
+
+```bash
+ts-node ./src/problem-6.ts
+```
+
+### Run Problem 7 Solution
+
+```bash
+ts-node ./src/problem-7.ts
+```
+
+### Run Problem 8 Solution
+
+```bash
+ts-node ./src/problem-8.ts
+```
