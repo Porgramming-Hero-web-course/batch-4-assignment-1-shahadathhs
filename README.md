@@ -32,3 +32,21 @@
 ```bash
 ts-node ./src/problem-1.ts
 ```
+
+### Run Problem 2 Solution
+
+```bash
+ts-node ./src/problem-2.ts
+```
+
+### Run Problem 3 Solution
+
+```bash
+ts-node ./src/problem-3.ts
+```
+
+### Run Problem 4 Solution
+
+```bash
+ts-node ./src/problem-4.ts
+```
