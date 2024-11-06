@@ -26,4 +26,4 @@ const car = new Car("Honda", "Civic", 2018);
 car.getCarAge();
 
 // Sample Output 1:
-console.log(car.getCarAge());
+// console.log(car.getCarAge());

@@ -14,4 +14,5 @@ const validateKeys = <T>(obj: T, keys: (keyof T)[]): boolean => {
 
 // Sample Input One:
 const personKey = { name: "Alice", age: 25, email: "alice@example.com" };
-console.log(validateKeys(personKey, ["name", "age"]));
+// console.log(validateKeys(personKey, ["name", "age"]));
+validateKeys(personKey, ["name", "age"])
